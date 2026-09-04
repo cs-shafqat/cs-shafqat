@@ -46,13 +46,6 @@ Specializing in **Java / Spring Boot**, **Golang**, and **Real-Time Data Streami
 - **C. Prehofer and S. Mehmood**, *"Big Data Architectures for Vehicle Data Analysis,"* 2020 IEEE International Conference on Big Data (Big Data), 2020, pp. 3404–3412.
 
 ---
-
-### 📊 GitHub Stats
-
-![Shafqat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cs-shafqat&show_icons=true&bg_color=00000000&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/shafqat-mehmood](https://linkedin.com/in/shafqat-mehmood)
